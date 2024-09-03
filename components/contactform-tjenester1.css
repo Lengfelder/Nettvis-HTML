@@ -1,0 +1,240 @@
+.contactform-tjenester1-contact1 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+.contactform-tjenester1-max-width {
+  align-items: flex-start;
+}
+.contactform-tjenester1-section-title {
+  gap: var(--dl-space-space-unit);
+  width: 40%;
+  align-items: flex-start;
+}
+.contactform-tjenester1-logo {
+  height: 3rem;
+  object-fit: cover;
+}
+.contactform-tjenester1-content1 {
+  gap: var(--dl-space-space-oneandhalfunits);
+  display: flex;
+  align-self: stretch;
+  flex-direction: column;
+}
+.contactform-tjenester1-content2 {
+  gap: 16px;
+  display: flex;
+  padding: 8px 0;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contactform-tjenester1-row1 {
+  gap: 16px;
+  display: flex;
+  align-items: flex-start;
+}
+.contactform-tjenester1-row2 {
+  gap: 16px;
+  display: flex;
+  align-items: flex-start;
+}
+.contactform-tjenester1-row3 {
+  gap: 16px;
+  display: flex;
+  align-items: flex-start;
+}
+.contactform-tjenester1-form {
+  gap: var(--dl-space-space-oneandhalfunits);
+  width: 60%;
+}
+.contactform-tjenester1-container1 {
+  gap: var(--dl-space-space-unit);
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.contactform-tjenester1-input1 {
+  gap: var(--dl-space-space-halfunit);
+  width: 50%;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contactform-tjenester1-input2 {
+  gap: var(--dl-space-space-halfunit);
+  width: 50%;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contactform-tjenester1-container2 {
+  gap: var(--dl-space-space-unit);
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+.contactform-tjenester1-input3 {
+  gap: var(--dl-space-space-halfunit);
+  width: 50%;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contactform-tjenester1-input4 {
+  gap: var(--dl-space-space-halfunit);
+  width: 50%;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contactform-tjenester1-container3 {
+  flex: 0 0 auto;
+  width: 50%;
+  display: flex;
+  align-self: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contactform-tjenester1-input5 {
+  gap: var(--dl-space-space-halfunit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contactform-tjenester1-container4 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-self: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contactform-tjenester1-input6 {
+  gap: var(--dl-space-space-halfunit);
+  width: 100%;
+  display: flex;
+  align-self: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.contactform-tjenester1-checkbox1 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+}
+.contactform-tjenester1-button {
+  align-self: flex-start;
+}
+.contactform-tjenester1-fragment1 {
+  display: contents;
+}
+.contactform-tjenester1-fragment2 {
+  display: contents;
+}
+.contactform-tjenester1-fragment3 {
+  display: contents;
+}
+.contactform-tjenester1-fragment4 {
+  display: contents;
+}
+.contactform-tjenester1-fragment5 {
+  display: contents;
+}
+.contactform-tjenester1-fragment6 {
+  display: contents;
+}
+.contactform-tjenester1-fragment7 {
+  display: contents;
+}
+@media(max-width: 991px) {
+  .contactform-tjenester1-max-width {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .contactform-tjenester1-section-title {
+    width: 100%;
+  }
+  .contactform-tjenester1-form {
+    width: 100%;
+  }
+  .contactform-tjenester1-container1 {
+    gap: var(--dl-space-space-twounits);
+    width: 100%;
+    flex-direction: row;
+  }
+  .contactform-tjenester1-input1 {
+    width: 50%;
+  }
+  .contactform-tjenester1-input2 {
+    width: 50%;
+    flex-direction: column;
+  }
+  .contactform-tjenester1-container2 {
+    gap: var(--dl-space-space-twounits);
+    width: 100%;
+    flex-direction: row;
+  }
+  .contactform-tjenester1-input3 {
+    width: 50%;
+  }
+  .contactform-tjenester1-input4 {
+    width: 50%;
+  }
+  .contactform-tjenester1-container3 {
+    gap: var(--dl-space-space-twounits);
+    width: 100%;
+    flex-direction: row;
+  }
+  .contactform-tjenester1-input5 {
+    gap: var(--dl-space-space-halfunit);
+    width: 50%;
+    flex-direction: column;
+  }
+  .contactform-tjenester1-container4 {
+    gap: var(--dl-space-space-twounits);
+    width: 100%;
+    flex-direction: row;
+  }
+  .contactform-tjenester1-checkbox1 {
+    align-self: flex-start;
+  }
+}
+@media(max-width: 479px) {
+  .contactform-tjenester1-form {
+    padding: var(--dl-space-space-unit);
+  }
+  .contactform-tjenester1-container1 {
+    align-items: stretch;
+    flex-direction: column;
+  }
+  .contactform-tjenester1-input1 {
+    width: 100%;
+  }
+  .contactform-tjenester1-input2 {
+    width: 100%;
+  }
+  .contactform-tjenester1-container2 {
+    align-items: stretch;
+    flex-direction: column;
+  }
+  .contactform-tjenester1-input3 {
+    width: 100%;
+  }
+  .contactform-tjenester1-input4 {
+    width: 100%;
+  }
+  .contactform-tjenester1-text21 {
+    text-align: center;
+  }
+}
